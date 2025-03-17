@@ -233,8 +233,6 @@ Due to the limitation of the length of the paper, all categories of AP for DOTA-
 
 ## Cite OrientedFormer
 
-“Instead of citing an article with closed or falsely advertised open-source code, it is preferable to cite an article with genuine open-source code.”
-
 ```
 @ARTICLE{10669376,
   author={Zhao, Jiaqi and Ding, Zeyu and Zhou, Yong and Zhu, Hancheng and Du, Wen-Liang and Yao, Rui and El Saddik, Abdulmotaleb},
@@ -486,8 +484,6 @@ python projects/icdar2015_evaluation/script.py –g=gt.zip –s=submit.zip
 
 
 ## 引用 OrientedFormer
-
-**“与其引用不开源代码、假开源代码的文章，不如引用真开源代码的文章。”**
 
 ```
 @ARTICLE{10669376,
