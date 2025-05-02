@@ -264,7 +264,7 @@ arxiv link https://arxiv.org/abs/2409.19648
 
 新特性：
 
-- [x] 数据集工具：                                 ICDAR2015 Dataset in MMRotate-1.x
+- &#x2705; 数据集工具：                                 ICDAR2015 Dataset in MMRotate-1.x
 
 - [x] 数据集工具：                                 ICDAR2015 Metric  in MMRotate-1.x
 
@@ -278,7 +278,6 @@ arxiv link https://arxiv.org/abs/2409.19648
 
 如果喜欢，请点一点小星星收藏。
 
-**“与其引用不开源代码、假开源代码的文章，不如引用真开源代码的文章。”**
 
 
 
