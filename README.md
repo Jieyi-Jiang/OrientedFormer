@@ -3,6 +3,10 @@
 The Chinese Version is below (中文版在下面).
 
 
+<div align="center">
+  <img src="resources/overall_framework.png" width="1000"/>
+</div>
+
 
 ## Introduction
 
