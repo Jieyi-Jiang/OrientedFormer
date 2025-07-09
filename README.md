@@ -1,8 +1,8 @@
 # (TGRS 2024) OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images
 
-**Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) ! **  
-**Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) ! **  
-**Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) ! **
+**Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**  
+**Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**  
+**Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**
 
 
 
@@ -262,9 +262,9 @@ Due to the limitation of the length of the paper, all categories of AP for DOTA-
 
 # (TGRS 2024) OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images
 
-**请参考 [ai4rs](https://github.com/wokaikaixinxin/ai4rs) ! **  
-**请参考 [ai4rs](https://github.com/wokaikaixinxin/ai4rs) ! **  
-**请参考 [ai4rs](https://github.com/wokaikaixinxin/ai4rs) ! **
+**请参考 [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**  
+**请参考 [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**  
+**请参考 [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**
 
 ## 简介
 
