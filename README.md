@@ -1,7 +1,9 @@
 # (TGRS 2024) OrientedFormer: An End-to-End Transformer-Based Oriented Object Detector in Remote Sensing Images
 
 **Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**  Our [ai4rs](https://github.com/wokaikaixinxin/ai4rs) integrate remote sensing related work, including newest work on cvpr 2025.
+
 **Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !**  Our [ai4rs](https://github.com/wokaikaixinxin/ai4rs) integrate remote sensing related work, including newest work on cvpr 2025.
+
 **Please refer [ai4rs](https://github.com/wokaikaixinxin/ai4rs) !** Our [ai4rs](https://github.com/wokaikaixinxin/ai4rs) integrate remote sensing related work, including newest work on cvpr 2025.
 
 
